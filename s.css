@@ -1,0 +1,20 @@
+
+  body {
+    font-family: 'Shabnam', sans-serif;
+    direction: rtl;
+  }
+  body {
+    background-color: rgb(206, 169, 68);
+    /* rgb background */
+  }
+  p.p1 {
+    color:rgba(96, 91, 76, 0.881) ;
+    text-shadow: 1px 2px;
+  }
+  p.p2 {
+    font-weight: 700;
+    text-shadow: 1px 2px 5px rgb(235, 244, 59);/* سومین مقدار میزان تغییرات را روی سایه نشان میدهد */
+  }
+  p.p3 {
+    color:rgba(240, 248, 255, 0.174);
+  }
